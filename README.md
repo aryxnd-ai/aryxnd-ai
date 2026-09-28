@@ -1,16 +1,54 @@
-## Hi there 👋
+# Aryan Desai
 
-<!--
-**aryxnd-ai/aryxnd-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Economics @ UC Riverside · Graduating December 2026 · Upper-Division GPA 3.96
 
-Here are some ideas to get you started:
+I build things at the intersection of markets, data, and AI — then write about what I find.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Work On
+
+**Market Intelligence & AI Automation Intern** — [PCC Hydrogen](https://pcch2.com) *(May 2026 – Present)*  
+Built Python pipelines aggregating 40+ sources into structured daily and weekly intelligence briefings for the executive team. Deployed an agentic AI system that cut reporting turnaround by 15+ hours per edition.
+
+**Founder & Principal Analyst** — Business Intelligence Services *(Sep 2025 – Present)*  
+Independent consulting practice: I scope client problems, design research frameworks, and deliver structured competitive and market intelligence directly to decision-makers.
+
+**Competitive Intelligence Intern** — L&T Technology Services *(Jun–Sep 2025)*  
+Quantitative benchmarking across six global engineering technology firms. Surfaced key partnership deals and produced written recommendations for senior strategy leadership.
+
+**Business Development & Market Research Intern** — Spector.AI *(Mar–Jun 2025)*  
+Analyzed AI and industrial tech market structure across funding rounds, competitive positioning, and product launches.
+
+**Research Assistant** — UC Riverside, Department of Economics *(Sep 2024 – Jun 2026)*  
+Applied OLS regression and econometric methods to faculty-led empirical research across two years.
+
+---
+
+## Projects
+
+**[Corporate Risk Radar](https://github.com/aryxnd-ai/corporate-risk-radar)** · Python · Pandas · Streamlit · Yahoo Finance API  
+Live multi-factor risk scoring platform across 500+ S&P 500 companies. Five risk dimensions, real-time data pipelines, composite scoring model.
+
+**"Why Rising Electricity Demand Has Not Broken the U.S. Economy"** · Economics Research  
+Original empirical research on U.S. commercial electricity market dynamics 2018–2024. Used FRED and EIA data to document the decoupling between demand growth, stable prices, and GDP expansion.
+
+**Nike & Caterpillar Equity Valuation Models** · Excel · DCF · WACC · 3-Statement Modeling  
+Full linked three-statement financial models with multi-method valuation (FCFF DCF, FCFE DCF, DDM) and explicit reconciliation of divergent outputs.
+
+---
+
+## Skills
+
+`Python` `R` `SQL` `Excel` `Tableau` `Git`
+
+Agentic AI · LLM integration · Multi-source data pipelines · Microsoft Graph API  
+Econometrics · Financial modeling · DCF / WACC · Market intelligence
+
+**NVIDIA AI Enterprise Deployment — Bare-Metal Kubernetes** *(NVIDIA Academy, April 2026)*
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/aryxnd) · aryxnd@gmail.com
